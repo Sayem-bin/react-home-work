@@ -1,0 +1,17 @@
+.Header img{
+    height: 80px;
+}
+
+.Header{
+    text-align: center;
+}
+.Header nav{
+    background-color: blue;
+    line-height: 30px;
+   
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+} 
